@@ -4,7 +4,8 @@
   "description": "create a react toolchain from scratch ",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "webpack-dev-server --mode development"
   },
   "repository": {
     "type": "git",
