@@ -1,0 +1,25 @@
+{
+  "name": "react-test-app",
+  "version": "1.0.0",
+  "description": "create a react toolchain from scratch ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/redapp1/react-test.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "webpack",
+    "babel"
+  ],
+  "author": "redouan el mossaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redapp1/react-test/issues"
+  },
+  "homepage": "https://github.com/redapp1/react-test#readme"
+}
